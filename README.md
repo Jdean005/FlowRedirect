@@ -1,5 +1,5 @@
 # FlowRedirect
-Aura Component to surface redirects. (Custom redirect in Screenflows)
+Aura Component to enable dynamic redirects in Salesforce Flows. (Custom redirect in Screenflows)
 
 To use this component simply create a screenflow and add a final screen component that you will use to host this redirect component. 
 
